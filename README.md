@@ -11,15 +11,18 @@ allowing users to plan their activities accordingly.
 Simple Command-Line Interface: The app offers a straightforward command-line interface, making it easy for users to access weather information without any complexity.
 
     Why Weather Forecasting App?
-Convenience and Accessibility
+1)Convenience and Accessibility :
+
 With the Weather Forecasting App, users can quickly check the current weather conditions for any city of interest without the need to navigate through complex interfaces or websites.
 The simplicity of the command-line interface ensures that users can access weather information with minimal effort.
 
-Accurate and Reliable Data
+2)Accurate and Reliable Data:
+
 The app relies on the OpenWeatherMap API, which provides reliable and up-to-date weather data from a vast network of weather stations worldwide.
 Users can trust the accuracy of the information provided by the app for their planning and decision-making.
 
-Customization and Flexibility
+3)Customization and Flexibility:
+
 Users have the flexibility to customize their weather forecasts by specifying the city of their choice.
 Whether they are planning a trip, scheduling outdoor activities, or simply staying informed about the weather conditions in different locations,
 the Weather Forecasting App offers the necessary flexibility to meet their needs.
