@@ -3,12 +3,12 @@ The Weather Forecasting App is a Python-based application that provides users wi
 Leveraging the OpenWeatherMap API, this app fetches real-time weather data including temperature, humidity, wind speed, and weather description, and presents it in an easy-to-read format.
 
     Features
-City-based Weather Forecast: Users can input the name of any city and receive accurate weather forecasts for that location.
+• City-based Weather Forecast: Users can input the name of any city and receive accurate weather forecasts for that location.
 
-Detailed Weather Information: The app retrieves and displays comprehensive weather data, including temperature, humidity, wind speed, and weather description,
-allowing users to plan their activities accordingly.
+• Detailed Weather Information: The app retrieves and displays comprehensive weather data, including temperature, humidity, wind speed, and weather description,
+  allowing users to plan their activities accordingly.
 
-Simple Command-Line Interface: The app offers a straightforward command-line interface, making it easy for users to access weather information without any complexity.
+• Simple Command-Line Interface: The app offers a straightforward command-line interface, making it easy for users to access weather information without any complexity.
 
     Why Weather Forecasting App?
 1)Convenience and Accessibility :
