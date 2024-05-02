@@ -36,8 +36,11 @@ The user-friendly interface guides users through the process, ensuring a seamles
 To use the Weather Forecasting App, users need to follow these simple steps:
 
 1.Clone the Repository: Users can clone the repository containing the app's source code to their local machine.
+
 2.Install Dependencies: The app relies on the requests library for making API requests. Users need to install this library using pip.
+
 3.Obtain API Key: Users must obtain an API key from OpenWeatherMap and replace the placeholder in the app's code with their actual API key.
+
 4.Run the App: Once the setup is complete, users can run the app and input the desired city to receive the corresponding weather forecast.
 
     Contribution
